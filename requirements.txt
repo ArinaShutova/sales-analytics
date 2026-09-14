@@ -1,1 +1,2 @@
-pandos
+pandas
+polars
